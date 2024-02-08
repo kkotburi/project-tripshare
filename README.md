@@ -12,7 +12,7 @@
 
 ## 🎬 구현 사이트
 
-- 배포 링크 : https://tripshare-theta.vercel.app/
+- 서버 주소 : https://tripshare-theta.vercel.app/
 
 ## ⏰ 개발 기간
 
